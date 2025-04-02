@@ -1,43 +1,75 @@
 <div align="center">
 
-# Hey there, I'm Aatmik Panse 👋
+# Aatmik Panse
 
-I'm a passionate software developer creating amazing experiences across **Android**, **iOS**, and the cutting-edge **visionOS** ecosystem. I love turning ideas into robust mobile apps and I'm always on the lookout for innovative backend solutions to complement my work.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+%26+Next.js+Developer;Mobile+Developer;Vision+OS+Enthusiast;Full-Stack+Explorer)](https://git.io/typing-svg)
 
-## 🚀 What I'm Working On
-- **Mobile & VisionOS Apps:** Building intuitive and engaging apps for Android, iOS, and visionOS.
-- **Learning & Growth:** Deep diving into Swift, Spring Boot, and sharpening my Data Structures & Algorithms.
-- **Collaboration:** Actively seeking collaboration on backend projects to enhance app performance and scalability.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aatmikpanse/)
+</div>
 
-## 💻 My Tech Stack
+## 👨‍💻 About Me 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+> I transform ideas into seamless experiences across multiple platforms. With advanced expertise in **React** and **Next.js** for web development, while also building native applications for **Android**, **iOS**, and the pioneering **visionOS** ecosystem. I'm passionate about clean code, intuitive design, and creating performant applications that deliver exceptional user experiences.
 
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aatmik-panse&theme=blueberry&hide_border=false)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatmik-panse&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+</p>
+
+## 🚀 Current Mission
+
+- 🌐 Building modern web applications with **React** and **Next.js**
+- 📱 Crafting exceptional mobile experiences across multiple platforms
+- 🥽 Pioneering spatial computing applications for visionOS
+- 🔄 Developing robust backend solutions to power both web and mobile innovations
+- 📚 Mastering Swift, advanced Data Structures & Algorithms, and full-stack development principles
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/aatmik-panse">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatmik-panse&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatmik-panse&theme=tokyonight" alt="aatmik-panse" />
+</p>
+
+## 🔗 Connect & Collaborate
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aatmikpanse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dev.aatmik@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/panseaatmik" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aatmik-panse&icon=0&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 </div>
