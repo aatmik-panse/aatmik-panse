@@ -4,11 +4,10 @@
 
 **Founder & full-stack engineer · Bengaluru, India**
 
-Building [getSichtbar](https://www.getsichtbar.com) — helping brands get seen, mentioned,<br/>and cited by AI.
+Quietly building at the edge of search and AI — helping brands get seen,<br/>mentioned, and cited by AI assistants.
 
 <br/>
 
-<a href="https://www.getsichtbar.com"><img src="https://img.shields.io/badge/getsichtbar.com-111111?style=flat-square&logo=safari&logoColor=white" alt="getSichtbar" /></a>
 <a href="https://aatmik.de"><img src="https://img.shields.io/badge/aatmik.de-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/aatmikpanse/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/panseaatmik"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
@@ -17,11 +16,11 @@ Building [getSichtbar](https://www.getsichtbar.com) — helping brands get seen,
 
 <br/>
 
-## What I'm building
+## Now
 
-- **[getSichtbar](https://www.getsichtbar.com)** — AI visibility & GEO for e-commerce: content that ranks on Google *and* gets your brand mentioned by ChatGPT, Perplexity, and AI Overviews. Search is moving into AI answers; we make sure brands show up there.
-- **Shopify apps** — virtual try-on, bundles, and AI-powered store tooling for commerce brands.
-- **Tools for AI agents** — like [plannotate](https://github.com/aatmik-panse/plannotate), a browser-based plan & code review surface for Claude Code.
+- Building an AI-visibility & GEO platform for e-commerce — content that ranks on Google *and* shows up in AI answers.
+- Shipping Shopify apps for commerce brands.
+- Making small, open tools that make AI coding agents nicer to work with.
 
 ## Stack
 
@@ -48,6 +47,6 @@ Building [getSichtbar](https://www.getsichtbar.com) — helping brands get seen,
 
 <div align="center">
 
-*Say hi — always up for talking commerce, GEO, or agent tooling.*
+*Say hi — always up for talking commerce, search, or agent tooling.*
 
 </div>
