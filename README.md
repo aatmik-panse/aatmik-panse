@@ -4,7 +4,7 @@
 
 **Founder & full-stack engineer · Bengaluru, India**
 
-Quietly building at the edge of search and AI — helping brands get seen,<br/>mentioned, and cited by AI assistants.
+Quietly building at the edge of search and AI, helping brands get seen,<br/>mentioned, and cited by AI assistants.
 
 <br/>
 
@@ -18,7 +18,7 @@ Quietly building at the edge of search and AI — helping brands get seen,<br/>m
 
 ## Now
 
-- Building an AI-visibility & GEO platform for e-commerce — content that ranks on Google *and* shows up in AI answers.
+- Building an AI-visibility & GEO platform for e-commerce: content that ranks on Google *and* shows up in AI answers.
 - Shipping Shopify apps for commerce brands.
 - Making small, open tools that make AI coding agents nicer to work with.
 
@@ -47,6 +47,6 @@ Quietly building at the edge of search and AI — helping brands get seen,<br/>m
 
 <div align="center">
 
-*Say hi — always up for talking commerce, search, or agent tooling.*
+*Say hi. Always up for talking commerce, search, or agent tooling.*
 
 </div>
