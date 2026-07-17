@@ -40,8 +40,8 @@ Building [getSichtbar](https://www.getsichtbar.com) — helping brands get seen,
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aatmik-panse&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatmik-panse&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aatmik-panse&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aatmik-panse&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 <br/>
