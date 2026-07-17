@@ -2,7 +2,7 @@
 
 # Aatmik Panse
 
-**Founder & full-stack engineer · Bengaluru, India**
+**Full-stack engineer · Bengaluru, India**
 
 Quietly building at the edge of search and AI, helping brands get seen,<br/>mentioned, and cited by AI assistants.
 
