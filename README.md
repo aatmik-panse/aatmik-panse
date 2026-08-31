@@ -62,14 +62,15 @@ Helping brands get discovered on Google, surfaced in AI answers, and built for t
 <p align="center">
   <a href="https://github.com/aatmik-panse">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=aatmik-panse&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats-flame-eta-28.vercel.app/api?username=aatmik-panse&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
       width="49%"
       alt="Aatmik's GitHub statistics"
     />
   </a>
+
   <a href="https://github.com/aatmik-panse">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatmik-panse&layout=compact&langs_count=6&theme=transparent&hide_border=true"
+      src="https://github-readme-stats-flame-eta-28.vercel.app/api/top-langs/?username=aatmik-panse&layout=compact&langs_count=6&theme=transparent&hide_border=true"
       width="49%"
       alt="Aatmik's most used languages"
     />
