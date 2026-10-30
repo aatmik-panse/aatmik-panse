@@ -1,12 +1,12 @@
-<div align="center">
+ <div align="center">
 
 # Aatmik Panse
 
-**Full-stack engineer · AI × Search × Commerce**
+**Technical Product Lead · AI × Search × Commerce**
 
-Building products at the intersection of **search, AI visibility, and e-commerce**.
+Building products, leading engineering, and turning business problems into software.
 
-Helping brands get discovered on Google, surfaced in AI answers, and built for the next generation of search.
+Working across **AI visibility, search, and e-commerce**, from client discovery and product strategy to architecture, hands-on development, and delivery.
 
 <br/>
 
@@ -28,16 +28,22 @@ Helping brands get discovered on Google, surfaced in AI answers, and built for t
 
 ---
 
-## Currently building
+## What I do
 
-- **AI visibility & GEO**  
-  Helping e-commerce brands appear in traditional search and AI-generated answers.
+- **Product & Engineering Leadership**  
+  Lead application development, shape technical direction, and work hands-on across architecture, implementation, and delivery.
 
-- **Shopify apps**  
-  Building tools and infrastructure for modern commerce brands.
+- **Client Solutions & Strategy**  
+  Work directly with clients to understand business needs, define solutions, and turn requirements into shipped products.
 
-- **Agent tooling**  
-  Creating small, focused tools that make AI coding agents more useful, transparent, and enjoyable to work with.
+- **AI Visibility & Search**  
+  Build solutions that help e-commerce brands improve their discoverability across traditional search engines and AI-generated answers.
+
+- **Shopify & Commerce**  
+  Develop apps, integrations, and infrastructure that solve real problems for modern commerce businesses.
+
+- **AI Agent Tooling**  
+  Experiment with tools and workflows that make AI coding agents more capable, transparent, and effective.
 
 ---
 
@@ -59,7 +65,7 @@ Helping brands get discovered on Google, surfaced in AI answers, and built for t
 
 <div align="center">
 
-**Commerce · Search · AI · Developer Tools**
+**Product Engineering · AI · Search · Commerce · Developer Tools**
 
 <br/>
 
@@ -68,7 +74,5 @@ Helping brands get discovered on Google, surfaced in AI answers, and built for t
 </a>
 
 <br/><br/>
-
-*Always happy to talk about what comes next.*
 
 </div>
