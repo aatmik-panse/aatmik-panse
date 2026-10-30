@@ -4,9 +4,11 @@
 
 **Technical Product Lead · AI × Search × Commerce**
 
+Currently: Technical Product Lead at [getSichtbar](https://getsichtbar.com)
+
 Building products, leading engineering, and turning business problems into software.
 
-Working across **AI visibility, search, and e-commerce**, from client discovery and product strategy to architecture, hands-on development, and delivery.
+Working across **AI visibility and search** for e-commerce, deep tech, agencies and hospitality, from client discovery and product strategy to architecture, hands-on development, and delivery.
 
 <br/>
 
@@ -37,7 +39,7 @@ Working across **AI visibility, search, and e-commerce**, from client discovery 
   Work directly with clients to understand business needs, define solutions, and turn requirements into shipped products.
 
 - **AI Visibility & Search**  
-  Build solutions that help e-commerce brands improve their discoverability across traditional search engines and AI-generated answers.
+  Build solutions that help brands, from e-commerce and deep tech to agencies and hotel chains, improve their discoverability across traditional search engines and AI-generated answers.
 
 - **Shopify & Commerce**  
   Develop apps, integrations, and infrastructure that solve real problems for modern commerce businesses.
